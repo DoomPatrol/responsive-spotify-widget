@@ -37,7 +37,10 @@ Once you are have the code, all you need to do is copy the embed URI from Spotif
  4. Then click copy URI embed code
 
 After you have the code, just copy it in your preferred CMS or template language and it will embed once you publish!
+
+
 ![enter image description here](https://github.com/DoomPatrol/responsive-spotify-widget/blob/master/copy-uri.gif)
+
 Editing the Code
 ---------
-If you want to change the colors, position, etc. the CSS is very short and straight forward. All of the JS is in jQuery and could easily be ported/changed to any flavor of JavaScript that you prefer. 
+If you want to change the colors, position, etc. the CSS is very short and straight forward. All of the JS is in jQuery and could easily be ported/changed to any flavor of JavaScript that you prefer.
