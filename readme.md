@@ -25,7 +25,8 @@ Getting started is really easy. You can either choose to clone the repo and take
 If you are going to be using a CMS or templating language, your development process is going to differ. The general process is as follows:
 1. Copy/Clone the HTML, CSS, & JS files into your project
 2. Declare the embed URI (!!!SPOTIFY_EMBED_URI in the HTML) as a variable in whatever language you are building the widget in.
-3. That's it!
+3. Declare the blurb (if you want it) as a variable in whatever language you are building the widget in.
+4. That's it!
 
 Usage
 ---------

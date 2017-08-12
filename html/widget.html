@@ -1,0 +1,29 @@
+<!-- SUPER compact version of Spotify Embed
+
+- Small height
+- No list of songs
+- Better for single songs
+
+-->
+<div class="spotify-embed-close text-center"><p class="close-text"><i class="fa fa-music"></i></p></div>
+<div class="spotify-embed-block" style="display: none;">
+  <iframe src="https://open.spotify.com/embed?uri=!!!SPOTIFY_URI_HERE!!!&theme=white" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
+    <div class="spotify-embed-blurb">
+      !!!BLURB ABOUT WHY YOU CHOSE THIS SONG GOES HERE IF YOU WANT IT!!!
+    </div>
+</div>
+{% else %}
+<!--
+
+- much taller
+- Songs are listed and scrollable
+- Better for playlists
+
+-->
+<div class="spotify-embed-close text-center"><p class="close-text"><i class="fa fa-music"></i></p></div>
+<div class="spotify-embed-block text-center" style="display: none;">
+  <iframe src="https://open.spotify.com/embed?uri=!!!SPOTIFY_URI_HERE!!!&theme=white" width="300" height="300" frameborder="0" allowtransparency="true"></iframe>
+</div>
+<!--
+
+-->
