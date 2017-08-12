@@ -13,7 +13,6 @@ The widget itself is very simple and is based off of Spotify's existing [embedda
 Requirements
 -------------------
 
-- Bootstrap 4
 - Font Awesome
 - jQuery :scream:
 
